@@ -12,24 +12,24 @@ This pet shop is intrsted in using ethereum as an efficient way to handle their 
 
 ## Installing Truffle :
 
-'sudo npm install -g truffle'
+`sudo npm install -g truffle`
 
 ## How To Start with this Project :
 
 First create a Folder for your DAPP using **Commands**
 
-'mkdir pet-shop-tutorial'
+`mkdir pet-shop-tutorial`
 
-'cd pet-shop-tutorial'
+`cd pet-shop-tutorial`
 
-'truffle unbox pet-shop'
+`truffle unbox pet-shop`
 
 here using truffle unbox to unbox the petshop package.
 
 
 ### Command for migrating the contract :
 
-'truffle migrate'
+`truffle migrate`
 
 After using this command your output should be like this :
 
@@ -37,7 +37,7 @@ After using this command your output should be like this :
 
 ### Command For Running the Tests :
 
-'truffle test'
+`truffle test`
 
 After this you will get similar output like this :
 
