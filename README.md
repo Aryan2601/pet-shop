@@ -53,4 +53,26 @@ After this you will get similar output like this :
 
 ## Installing MetaMask
 
-<a href="https://metamask.io/" target="_blank"><img src="![Screenshot from 2020-04-09 17-48-11](https://user-images.githubusercontent.com/56226813/78894437-a923e980-7a8a-11ea-81e6-8b4a933492a9.png)" alt="MetaMask"></a>
+click on the link and you will be directed to download page :
+<a href="https://metamask.io/" target="_blank"><img src="![Screenshot from 2020-04-09 17-48-11](https://user-images.githubusercontent.com/56226813/78894437-a923e980-7a8a-11ea-81e6-8b4a933492a9.png)"
+ alt="MetaMask"></a>
+
+#### click on Download button :
+
+![Screenshot from 2020-04-09 17-55-15](https://user-images.githubusercontent.com/56226813/78894794-5eef3800-7a8b-11ea-9464-0c3895c38fd4.png)
+
+#### Click on Install MetaMask for Chrome :
+
+![Screenshot from 2020-04-09 17-57-29](https://user-images.githubusercontent.com/56226813/78894996-b55c7680-7a8b-11ea-9eb1-956d96835892.png)
+
+
+after all installing and creating of your ID then go with this command to run the server
+
+`npm run dev`
+
+### This will be the web page :
+
+![Screenshot from 2020-04-09 18-00-06](https://user-images.githubusercontent.com/56226813/78895240-18e6a400-7a8c-11ea-8ee1-9cd889bf7f9c.png)
+
+
+
