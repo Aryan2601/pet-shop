@@ -65,6 +65,7 @@ click on the link and you will be directed to download page :
 
 ![Screenshot from 2020-04-09 17-57-29](https://user-images.githubusercontent.com/56226813/78894996-b55c7680-7a8b-11ea-9eb1-956d96835892.png)
 
+---
 
 after all installing and creating of your ID then go with this command to run the server
 
