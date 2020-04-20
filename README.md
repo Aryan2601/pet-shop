@@ -2,7 +2,7 @@
 
  This DAPP is named as Pete's Pet shop this is my first made DAPP using solidity and JS
 
-## About This Pet Shop 
+## About This Pet Shop :confused:	
 
 This pet shop is intrsted in using ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time,so they accept transactions in Gas. And thios pet shop asscociates Ethereum address with a pet to be adopted.
 
