@@ -4,7 +4,7 @@
 
 ## About This Pet Shop :confused:	
 
-This pet shop is intrsted in using ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time,so they accept transactions in Gas. And thios pet shop asscociates Ethereum address with a pet to be adopted.
+This pet shop is intrested in using ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time,so they accept transactions in Gas. And this pet shop asscociates Ethereum address with a pet to be adopted.
 
 
 ![Screenshot from 2020-04-09 15-09-30](https://user-images.githubusercontent.com/56226813/78881725-d49bd980-7a74-11ea-9a0a-e5802529daf5.png)
